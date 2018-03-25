@@ -1,0 +1,12 @@
+.md-toolbar-tools h1 {
+  font-size: inherit;
+  font-weight: inherit;
+  margin: inherit;
+}
+
+.Btn{
+width: auto; height: auto;
+}
+.loc{
+	margin: 20px;
+}
